@@ -1,7 +1,7 @@
 // =====================================================
 //  CONFIGURACIÓN
 // =====================================================
-const CORREO_AUTORIZADO = "prima@gmail.com"; // 👈 cambia por el correo real
+const CORREO_AUTORIZADO = "Sarnmyjoygriffin@gmail.com"; // 👈 cambia por el correo real
 const STORAGE_KEY       = "correoInvitado";
 
 // =====================================================
